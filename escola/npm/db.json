@@ -1,0 +1,93 @@
+{
+    "Cervejas":[
+    {"id":1,
+    "nome": "Beck's",
+    "tamanho": "Long neck",
+    "conteudo": "330 ml",
+    "valor": "R$12" },
+
+    {"id":2,
+    "nome": "Heineken",
+    "tamanho":"Long neck",
+    "conteudo": "330ml",
+    "valor": "R$14" },
+
+    {"id":3,
+    "nome": "Stella",
+    "tamanho": "Long neck",
+    "conteudo": "330ml",
+    "valor": "R$10" },
+
+
+    {"id":4,
+    "nome": "Corona",
+    "tamanho": "Long neck",
+    "conteudo":"330ml",
+    "valor": "R$13" }
+    ],
+
+    "Vinhos":[
+    {"id":1,
+    "nome": "Guaspari Vista do Chá",
+    "volume":"750ml",
+    "safra": "2016",
+    "tipo": "Tinto",
+    "país": "Brasil",
+    "uva": "Syrah",
+    "valor": "R$399"
+    },
+     
+    {"id":2,
+    "nome": "Montes Alpha Carmenere",
+    "volume": "750ml",
+    "safra":"2018",
+    "tipo":"Tinto",
+    "país":"Chile",
+    "uva":"Carmenere", 
+    "valor": "R$240"
+    },
+
+    {"id":3,
+    "nome":"Barista Pinotage",
+    "volume":"750ml",
+    "safra": "2021",
+    "tipo":"Tinto",
+    "país":"Africa do Sul",
+    "uva":"Pinotage",
+    "valor":"R$203"
+    },
+
+    {"id":4,
+    "nome": "Luis Pato Maria Gomes",
+    "volume":"750ml",
+    "safra":"2019",
+    "tipo":"Branco",
+    "país": "Portugal",
+    "uva":"Maria Gomes",
+    "valor":"R$129"
+    }
+    ],
+
+    "Drinks":[
+    {"id":1,
+    "nome": "Mojito",
+    "ingredientes": "Rum, suco de limão, hortelã, açúcar, água com gás e gelo"
+    },
+    
+    {"id":2,
+    "nome":"Margarita",
+    "ingredientes":"Licor de laranja, sal marinho, tequila, suco de limão e gelo"
+    },
+
+    {"id":3,
+    "nome":"Caipirinha",
+    "ingredientes": "Cachaça, açúcar, rodelas de limão e gelo"
+    },
+
+    {"id":4,
+    "nome":"Pina Colada",
+    "ingredientes":"Rum, suco de abacaxi, leite de coco, leite condensado e gelo"
+    }
+    ]
+   
+}
